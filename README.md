@@ -4,6 +4,7 @@ Project to try AI to generate blocks for document based authoring
 **References**
 - https://allabout.network/blogs/ddt/developer-guide-to-document-authoring-with-edge-delivery-services-part-9
 - https://allabout.network/blogs/ddt/developer-guide-to-document-authoring-with-edge-delivery-services-part-10
+- https://allabout.network/blogs/ddt/developer-guide-to-document-authoring-with-edge-delivery-services-part-11
 
 
 ## Environments
