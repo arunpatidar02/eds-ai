@@ -27,7 +27,7 @@
   left: 50%;
   transform: translate(-50%, -50%);
   text-align: center;
-  color: var(--text-color, #ffffff);
+  color: var(--text-color, #fff);
   max-width: 80%;
 }
 
@@ -49,8 +49,8 @@
 .stage-cta {
   display: inline-block;
   padding: 1rem 2rem;
-  background-color: var(--cta-background-color, #000000);
-  color: var(--cta-text-color, #ffffff);
+  background-color: var(--cta-background-color, #000);
+  color: var(--cta-text-color, #fff);
   text-decoration: none;
   font-weight: bold;
   border-radius: 4px;
@@ -58,7 +58,7 @@
 }
 
 .stage-cta:hover {
-  background-color: var(--cta-hover-background-color, #333333);
+  background-color: var(--cta-hover-background-color, #333);
 }
 
 .stage-bottom-text {
@@ -66,7 +66,7 @@
   font-size: var(--bottom-text-font-size, 1rem);
 }
 
-@media (max-width: 768px) {
+@media (width < 768px) {
   .stage {
     min-height: 400px;
   }
